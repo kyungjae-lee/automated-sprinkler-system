@@ -1,4 +1,4 @@
-# Sprinkler Automation
+# Automated Sprinkler System
 
 
 
